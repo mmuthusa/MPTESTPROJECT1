@@ -1,5 +1,5 @@
-
+MP Added line #1
 MP TEST GIT FILE 2 changed BOB
-
+Bob added line #2
 MP TEST GIT FILE 2- Changed MP
-
+MP added line #3
